@@ -24,8 +24,14 @@ button {
 }
 
 Button:hover {
-	border-color: #1c84ce;
-	color: red;
+	-moz-transition: all .5s ease-in;
+	 -o-transition: all .5s ease-in;
+	 -webkit-transition: all .5s ease-in;
+	 transition: all .5s ease-in;
+	 background: black;
+	 background-image: none;
+	 padding: 20px;
+
 }
 
 button:focus {
