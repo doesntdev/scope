@@ -30,6 +30,7 @@ table {
 .aries {
 	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/aries.jpg);
 	background-size: 370px;
+	background-position: left;
 }
 
 
