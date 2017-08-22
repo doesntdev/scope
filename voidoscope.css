@@ -1,0 +1,34 @@
+button {
+	height: 250px;
+	length: 250px;
+	width: 250px;
+	margin: 8px;
+	border-radius: 120px;
+	border-color: black;
+}
+
+h1 {
+	text-align: center;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.aquarius {
+	background-image: url(http://i.imgur.com/g0YWZ9H.png);
+	letter-spacing: 1px;
+}
+
+.pisces {
+	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/68/2f/1c/682f1cee95d3f209a9439d73889fb2ce.jpg);
+	letter-spacing: 1px;
+	color: #2397aa;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	font-weight: 900;
+
+}
+.sign {
+	font-size: 50px;
+}
