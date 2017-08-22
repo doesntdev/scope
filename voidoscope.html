@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<script src="index.js"></script>
+
 <html>
 <head>
+	<script src="index.js"></script>
 	<title>Voidoscope</title>
 	<link rel="stylesheet" type="text/css" href="Bootstrap.css">
 	<link rel="stylesheet" href="voidoscope.css">
@@ -15,7 +16,9 @@
 	<tr>
 		<td>
 			<button class="aquarius">
-			<p class="sign">Aquarius</p>
+				<div class="popup sign" onclick="myFunction()">Aquarius
+		  <span class="popuptext" id="myPopup">Popup text...</span>
+		</div>
 			</button>
 		</td>
 		<td>
@@ -56,8 +59,6 @@
 			<td><button>Libra</button></td>
 		</tr>
 	<tr></tr>
-
-
 
 </body>
 </html>
