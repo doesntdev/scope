@@ -31,7 +31,8 @@ Button:hover {
 	 background-color: transparent;
 	 background-image: none;
 	 border-color: white;
-	 padding: 20px;
+
+	 color: white;
 }
 
 button:focus {
@@ -46,13 +47,13 @@ table {
 .aquarius {
 	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/aquarius.jpg);
 	background-size: 290px;
-	color: #ffffff;
+	color: #9ab1ba;
 	background-position: center;
 }
 
 .pisces {
 	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/pisces.jpg);
-	color: #ffffff;
+	color: #9ab1ba;
 	background-size: 290px;
 	background-position: center;
 }
@@ -61,33 +62,74 @@ table {
 	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/aries.jpg);
 	background-size: 290px;
 	background-position: center;
-	color: #ffffff;
+	color: #9ab1ba;
 }
 
 .taurus {
 	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/taurus.jpg);
 	background-size: 290px;
 	background-position: center;
-	color: #ffffff;
+	color: #9ab1ba;
 }
 
 .gemini {
 	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/gemini-zodiacsign-ink.jpg);
 	background-size: 290px;
 	background-position: center;
-	color: #ffffff;
+	color: #9ab1ba;
 }
 
 .cancer {
 	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/cancer-1045x1024.jpg);
 	background-size: 290px;
 	background-position: center;
-	color: #ffffff;
+	color: #9ab1ba;
 }
 
+.leo {
+	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/leo.jpg);
+	background-size: 290px;
+	background-position: center;
+	color: #9ab1ba;
+}
+
+.virgo {
+	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/virgo.jpg);
+	background-size: 280px;
+	background-position: center;
+	color: #9ab1ba;
+}
+
+.libra {
+	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/libra.jpg);
+	background-size: 290px;
+	background-position: center;
+	color: #9ab1ba;
+}
+
+.scorpio {
+	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/scorpio.jpg);
+	background-size: 290px;
+	background-position: center;
+	color: #9ab1ba;
+}
+
+.sagittarius {
+	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/sagittarius.jpg);
+	background-size: 290px;
+	background-position: center;
+	color: #9ab1ba;
+}
+
+.capricorn {
+	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/capricorn.jpg);
+	background-size: 290px;
+	background-position: center;
+	color: #9ab1ba;
+}
 
 .sign {
-	font-size: 40px;
+	font-size: 36px;
 	letter-spacing: 1px;
 	text-shadow: -2.5px 0 black, 0 2px black, 2.5px 0 black, 0 -2px black;
 	font-family: 'Montserrat', sans-serif;
