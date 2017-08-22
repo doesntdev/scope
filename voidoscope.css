@@ -4,7 +4,15 @@ button {
 	width: 250px;
 	margin: 8px;
 	border-radius: 120px;
-	border-color: none;
+	border-color: black;
+}
+
+Button:hover {
+	border-color: pink;
+}
+
+button:focus {
+	outline: 0;
 }
 
 h1 {
