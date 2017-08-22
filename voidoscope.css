@@ -4,7 +4,7 @@ button {
 	width: 250px;
 	margin: 8px;
 	border-radius: 120px;
-	border-color: black;
+	border-color: none;
 }
 
 h1 {
