@@ -18,17 +18,24 @@ table {
 
 .aquarius {
 	background-image: url(http://i.imgur.com/g0YWZ9H.png);
-	letter-spacing: 1px;
+	background-size: 400px;
+	color: #91a1a5;
 }
 
 .pisces {
 	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/68/2f/1c/682f1cee95d3f209a9439d73889fb2ce.jpg);
-	letter-spacing: 1px;
 	color: #2397aa;
-	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-	font-weight: 900;
-
 }
+
+.aries {
+	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/aries.jpg);
+	background-size: 370px;
+}
+
+
 .sign {
-	font-size: 50px;
+	font-size: 40px;
+	letter-spacing: 1px;
+	text-shadow: -1.5px 0 black, 0 1px black, 1.5px 0 black, 0 -1px black;
+	font-weight: 900;
 }
