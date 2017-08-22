@@ -19,18 +19,19 @@ table {
 .aquarius {
 	background-image: url(http://i.imgur.com/g0YWZ9H.png);
 	background-size: 400px;
-	color: #91a1a5;
+	color: #6fb9db;
 }
 
 .pisces {
 	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/68/2f/1c/682f1cee95d3f209a9439d73889fb2ce.jpg);
-	color: #2397aa;
+	color: #4b9e95;
 }
 
 .aries {
 	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/aries.jpg);
 	background-size: 370px;
 	background-position: left;
+	color: #911515;
 }
 
 
