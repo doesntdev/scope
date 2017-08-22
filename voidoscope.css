@@ -10,6 +10,7 @@ body {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
+
 }
 
 button {
@@ -19,10 +20,12 @@ button {
 	margin: 8px;
 	border-radius: 120px;
 	border-color: black;
+	border-width: medium;
 }
 
 Button:hover {
-	border-color: pink;
+	border-color: #1c84ce;
+	color: red;
 }
 
 button:focus {
@@ -36,7 +39,7 @@ table {
 
 .aquarius {
 	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/aquarius.jpg);
-	background-size: 400px;
+	background-size: 290px;
 	color: #ffffff;
 	background-position: center;
 }
@@ -44,13 +47,34 @@ table {
 .pisces {
 	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/pisces.jpg);
 	color: #ffffff;
-	background-size: 350px;
+	background-size: 290px;
 	background-position: center;
 }
 
 .aries {
 	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/aries.jpg);
-	background-size: 370px;
+	background-size: 290px;
+	background-position: center;
+	color: #ffffff;
+}
+
+.taurus {
+	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/taurus.jpg);
+	background-size: 290px;
+	background-position: center;
+	color: #ffffff;
+}
+
+.gemini {
+	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/gemini-zodiacsign-ink.jpg);
+	background-size: 290px;
+	background-position: center;
+	color: #ffffff;
+}
+
+.cancer {
+	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/cancer-1045x1024.jpg);
+	background-size: 290px;
 	background-position: center;
 	color: #ffffff;
 }
