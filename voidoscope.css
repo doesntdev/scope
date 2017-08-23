@@ -1,6 +1,6 @@
 h1 {
 	text-align: center;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Rouge Script', cursive;
 	font-size: 62px;
 	color: #ffffff;
 }
@@ -10,6 +10,7 @@ body {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
+	background-color: #161a1c
 
 }
 
@@ -24,18 +25,17 @@ button {
 }
 
 Button:hover {
-	-moz-transition: all .5s ease-in;
-	 -o-transition: all .5s ease-in;
-	 -webkit-transition: all .5s ease-in;
-	 transition: all .5s ease-in;
-	 background-color: transparent;
-	 background-image: none;
+		animation: fade 1s forwards;
+  	background-color: transparent;
+	 	backface-visibility: hidden;
+		 background-image: none;
 	 border-color: white;
 	 color: white;
 }
 
 button:focus {
 	outline: 0;
+	background-image: url(https://i.giphy.com/media/3Pt2v2lFoYVqg/giphy.webp);
 }
 
 table {
@@ -47,6 +47,7 @@ table {
 	background-image: url(https://ak5.picdn.net/shutterstock/videos/19478434/thumb/10.jpg);
 	background-size: 400px;
 	background-position: center;
+	font-family: 'Codystar', cursive;
 }
 
 .pisces {
@@ -62,56 +63,56 @@ table {
 }
 
 .taurus {
-	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/taurus.jpg);
-	background-size: 290px;
+	background-image: url(http://i.imgur.com/GJMuXFf.jpg);
+	background-size: 360px;
 	background-position: center;
 }
 
 .gemini {
-	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/gemini-zodiacsign-ink.jpg);
-	background-size: 290px;
+	background-image: url(http://i.imgur.com/uWhANLc.jpg);
+	background-size: 370px;
 	background-position: center;
 }
 
 .cancer {
-	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/cancer-1045x1024.jpg);
-	background-size: 290px;
+	background-image: url(http://i.imgur.com/qah8TeM.jpg);
+	background-size: 400px;
 	background-position: center;
 }
 
 .leo {
-	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/leo.jpg);
-	background-size: 290px;
+	background-image: url(http://i.imgur.com/PcGDBmh.jpg);
+	background-size: 370px;
 	background-position: center;
 }
 
 .virgo {
-	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/virgo.jpg);
-	background-size: 280px;
+	background-image: url(http://i.imgur.com/sYoQR2z.jpg);
+	background-size: 370px;
 	background-position: center;
 }
 
 .libra {
-	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/libra.jpg);
-	background-size: 290px;
+	background-image: url(http://i.imgur.com/06WN59K.jpg);
+	background-size: 400px;
 	background-position: center;
 }
 
 .scorpio {
-	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/scorpio.jpg);
-	background-size: 290px;
+	background-image: url(http://i.imgur.com/YwCgh9L.jpg);
+	background-size: 400px;
 	background-position: center;
 }
 
 .sagittarius {
-	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/sagittarius.jpg);
-	background-size: 290px;
+	background-image: url(http://i.imgur.com/Dcj7u4S.jpg);
+	background-size: 400px;
 	background-position: center;
 }
 
 .capricorn {
-	background-image: url(https://destiny.global.ssl.fastly.net/wp-content/uploads/capricorn.jpg);
-	background-size: 290px;
+	background-image: url(http://i.imgur.com/aJDu8hC.jpg);
+	background-size: 400px;
 	background-position: center;
 }
 
@@ -119,9 +120,9 @@ table {
 	font-size: 36px;
 	letter-spacing: 1px;
 	text-shadow: -2.5px 0 black, 0 2px black, 2.5px 0 black, 0 -2px black;
-	font-family: 'Montserrat', sans-serif;
-	font-weight: 700;
+	font-family: 'Codystar', cursive;
 	color: #ffffff;
+
 }
 
 .popup {
