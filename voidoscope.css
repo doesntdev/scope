@@ -1,18 +1,33 @@
-div {
+#nihilist::first-letter{
+	font-size: 220px;
+}
+
+#nihilist {
+	text-align: center;
+	font-family: 'Great Vibes', cursive;
+	font-size: 160px;
+	letter-spacing: 14px;
+	color: #ffffff;
+	margin-top: 30px;
+	margin-bottom: -90px;
+}
+
+#scope {
 		text-align: center;
 		font-family: 'Reem Kufi', sans-serif;
 		font-size: 68px;
 		letter-spacing: 6px;
 		color: #ffffff;
-	line-height: 2px;
+		margin-top: -20px;
+		margin-bottom: 30px;
 }
+
 
 body {
 	background-image: url(http://orig02.deviantart.net/5f48/f/2010/248/1/1/starscape_wip_1_by_vaniyz-d2y4g9y.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-
 }
 
 button {
@@ -21,7 +36,7 @@ button {
 	width: 250px;
 	margin: 8px;
 	border-radius: 120px;
-	border-color: black;
+	border-color: grey;
 	border-width: medium;
 }
 
